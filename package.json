@@ -4,10 +4,8 @@
     "description": "",
     "main": "./out/extension.js",
     "version": "0.0.1",
-
     "publisher": "DarkCWK",
-    "repository": {},
-
+    "repository": "https://github.com/DarkCWK/dark-translate.git",
     "engines": {
         "vscode": "^1.22.0"
     },
