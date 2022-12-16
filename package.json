@@ -3,7 +3,7 @@
     "displayName": "Dark Translate",
     "description": "",
     "main": "./out/extension.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "DarkCWK",
     "repository": "https://github.com/DarkCWK/dark-translate.git",
     "engines": {
